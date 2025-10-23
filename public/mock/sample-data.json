@@ -1,0 +1,10 @@
+{
+  "ingresos": [
+    { "id": 1, "concepto": "Nómina Mensual", "monto": 25000, "tipo": "nómina", "iva": 0, "fecha": "2025-10-01" },
+    { "id": 2, "concepto": "Venta Servicio", "monto": 5800, "tipo": "servicio", "iva": 800, "fecha": "2025-10-05" }
+  ],
+  "gastos": [
+    { "id": 1, "concepto": "Renta Oficina", "monto": 8000, "tipo": "renta", "iva": 0, "fecha": "2025-10-02" },
+    { "id": 2, "concepto": "Compra Laptop (12 MSI)", "monto": 24000, "tipo": "activo", "iva": 3840, "msi": 12, "fecha": "2025-10-03" }
+  ]
+}
